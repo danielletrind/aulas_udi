@@ -1,0 +1,38 @@
+1.Faça uma relação do documentário com a disciplina:
+As redes sociais e plataformas digitais foram criadas com o objetivo de gerar dependência em seus usuários. 
+Isso está relacionado a usabilidade e design de interação, uma vez que técnicas de design são utilizadas 
+para incentivar o uso repetitivo e constante desses aplicativos.
+
+2.Qual a importância do documentário em relação a usabilidade? E qual a preocupação se deve ter dentro dos padrões éticos?
+Ele destaca a importância da usabilidade e como as plataformas digitais podem incentivar a dependência e manipular o comportamento dos usuários. 
+Por essa razão é crucial considerar a ética na produção e desenvolvimento dessas plataformas, pois a falta dela pode levar à manipulação das redes e prejudicar os usuários. 
+Os profissionais  devem avaliar cuidadosamente o impacto de suas criações para evitar vícios e outros efeitos negativos. 
+
+3.o que você acha da monetização das redes sociais e o fato de "você ser o produto"?
+As plataformas digitais utilizam o usuário como uma fonte de lucro, através de anunciantes e outras práticas. 
+Essa abordagem não é ética, já que se baseia em utilizar o usuário como um objeto qualquer, sendo assim uma falta de responsabilidade 
+e também contribuindo para o vício em plataformas.
+
+4.Você acha que a usabilidade pode ser desconsiderada por causa do documentário? Justifique sua resposta.
+Aborda amplamente questões éticas, dependência e outros tópicos, mas em nenhum momento negligencia a importância 
+da usabilidade, que é uma preocupação fundamental para garantir o bom funcionamento da plataforma para os usuários.
+
+5.Quais as indústrias tecnológicas relatadas no documentário? E como vc imagina que são tratados os dados coletados por elas?
+As empresas de tecnologia mencionadas no documentário são empresas grandes como Instagram, Twitter, Youtube e Google.
+Essas empresas coletam dados dos usuários, como curtidas, tempo de uso, compartilhamentos e histórico.
+Esses dados são usados para personalizar publicidades com base nos interesses dos usuários.
+
+6.Como as indústrias da tecnologia estão atraindo e retendo os seus usuários?
+Para entreter e manter o usuário na plataforma por um longo tempo, são utilizadas diversas técnicas atrativas, como personalização
+de conteúdo para apresentar aquilo que mais agrada ao usuário e design de interação viciante.
+
+7.Você acha que é manipulado pelas redes sociais?
+Sim, as redes sociais traz conteúdos que são atrativos e personalizados com coisas que nos interessamos, 
+fazendo assim consumirmos mais conteúdos e dando mais engajamento para as redes sociais.
+
+
+10.1-Tristan explica que há três objetivos principais na maior parte dos algoritmos criados por gigantes de tecnologia.Quais são eles?
+a)O engajamento,o crescimento e o objetivo de publicidade
+b)O marketing,a publicidade e a privacidade
+c)
+d)
